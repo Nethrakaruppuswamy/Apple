@@ -15,10 +15,10 @@ function App() {
 
   return (
     <>
-{/* < Navbar />
+< Navbar />
 < Header />
 < Hero />
-< Article /> */}
+< Article /> 
 < Aside />
 </>
   );
